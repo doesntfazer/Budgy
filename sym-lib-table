@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "keyboard_parts")(type "Legacy")(uri "${KIPRJMOD}/Libraries/kbd_components/keyboard_parts.lib")(options "")(descr ""))
+  (lib (name "mkl27z256vfm4")(type "Legacy")(uri "${KIPRJMOD}/Libraries/kbd_components/mkl27z256vfm4.lib")(options "")(descr ""))
+  (lib (name "keebio")(type "Legacy")(uri "${KIPRJMOD}/Libraries/keebio-components/keebio.lib")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/Libraries/KiCad-RP-Pico-main/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
+)

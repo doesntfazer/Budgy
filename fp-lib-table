@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "kbd_footprints")(type "KiCad")(uri "${KIPRJMOD}/Libraries/kbd_footprints.pretty")(options "")(descr ""))
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "keyswitches")(type "KiCad")(uri "${KIPRJMOD}/Libraries/keyswitches.pretty")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/Libraries/KiCad-RP-Pico-main/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
+  (lib (name "imagefootprints")(type "KiCad")(uri "${KIPRJMOD}/imagefootprints.pretty")(options "")(descr ""))
+)
