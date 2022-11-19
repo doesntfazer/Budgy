@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "keyboard_parts")(type "Legacy")(uri "D:/KiCad Projects/Chergo/Budgy/Libraries/kbd_components/keyboard_parts.lib")(options "")(descr ""))
+  (lib (name "mkl27z256vfm4")(type "Legacy")(uri "D:/KiCad Projects/Chergo/Budgy/Libraries/kbd_components/mkl27z256vfm4.lib")(options "")(descr ""))
+  (lib (name "keebio")(type "Legacy")(uri "D:/KiCad Projects/Chergo/Budgy/Libraries/keebio-components/keebio.lib")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "D:/KiCad Projects/Chergo/Budgy/Libraries/KiCad-RP-Pico-main/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
+  (lib (name "kbd")(type "Legacy")(uri "D:/KiCad Projects/Chergo/Budgy/Libraries/kbd/kicad-symbols/kbd.lib")(options "")(descr ""))
+)
