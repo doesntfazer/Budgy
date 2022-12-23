@@ -6,7 +6,9 @@
 
 What you need to build a Budgy
 
+
 | Component | Amount |
+|--|--|
 | Reversible Budgy PCB | x2 |
 | Raspberry Pi Pico w/headers | x2 |
 | Cherry Switches (5 pin recommended) | x34 |
@@ -14,6 +16,7 @@ What you need to build a Budgy
 | TRRS Cable | x1 |
 | PJ-320A TRRS Jacks | x2 |
 | Rubber Bumpers | x8 |
+
 
 - Solder headers to both raspberry pi Pico's
 
