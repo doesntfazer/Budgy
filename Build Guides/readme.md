@@ -26,7 +26,7 @@ What you need to build a Budgy
 
 - Solder the TRRS Jacks to the top of each side, again reference photo. 
 
-- I recommended at this point, you test the board to make sure everything is functioning. Plug in each side of the board while holding down the reset pin on the top of the board. Drag and drop the UF2 files from [here.](https://github.com/doesntfazer/Keyboard-Dweebs-Firmware-repository/tree/main/VIAL-QMK/Crowboard_uf2) You need to do this on both boards.
+- I recommended at this point, you test the board to make sure everything is functioning. Plug in each side of the board while holding down the reset pin on the top of the board. Drag and drop the UF2 files from [here.](https://github.com/doesntfazer/Keyboard-Dweebs-Firmware-repository/tree/main/VIAL-QMK/budgy) You need to do this on both boards.
 
 - Connect the halves using a TRRS cable, and short each key using some tweezers or a piece of wire. These files use [Vial QMK. You can download this app and use it to configure your keyboard.](https://get.vial.today/download/)
 
