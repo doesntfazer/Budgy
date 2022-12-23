@@ -30,7 +30,7 @@ What you need to build a Budgy
 
 - Connect the halves using a TRRS cable, and short each key using some tweezers or a piece of wire. These files use [Vial QMK. You can download this app and use it to configure your keyboard.](https://get.vial.today/download/)
 
-- If everything is working correctly you can proceed to solder in all of the switches, add your keycaps, and start typing away.
+- If everything is working correctly you can proceed to solder in all of the switches, add your keycaps, and put a rubber bumper in each corner on the bottom of each pcb, then start typing away.
 
 
 Some things to note. 
