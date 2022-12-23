@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 74AVC1T45DW-7
+#/712244/1014254/2.49/6/3/Integrated Circuit
+DEF 74AVC1T45DW-7 IC 0 30 Y Y 1 F N
+F0 "IC" 1150 300 50 H V L CNN
+F1 "74AVC1T45DW-7" 1150 200 50 H V L CNN
+F2 "SOT65P210X110-6N" 1150 100 50 H I L CNN
+F3 "https://www.diodes.com/assets/Datasheets/74AVC1T45.pdf" 1150 0 50 H I L CNN
+F4 "DiodesZetex 74AVC1T45DW-7, Transceiver Inverting 3-State, 1.2  3.6 V, 6-Pin SOT-363" 1150 -100 50 H I L CNN "Description"
+F5 "1.1" 1150 -200 50 H I L CNN "Height"
+F6 "621-74AVC1T45DW-7" 1150 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/74AVC1T45DW-7?qs=FxwYmY%252BLNTb6VB%2FaUjVImA%3D%3D" 1150 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Diodes Inc." 1150 -500 50 H I L CNN "Manufacturer_Name"
+F9 "74AVC1T45DW-7" 1150 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X VCC(A) 1 0 0 200 R 50 50 0 0 P
+X GND 2 0 -100 200 R 50 50 0 0 P
+X A 3 0 -200 200 R 50 50 0 0 P
+X VCC(B) 6 1300 0 200 L 50 50 0 0 P
+X DIR 5 1300 -100 200 L 50 50 0 0 P
+X B 4 1300 -200 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1100 100 1100 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

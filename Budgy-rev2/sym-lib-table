@@ -4,4 +4,5 @@
   (lib (name "keebio")(type "Legacy")(uri "D:/KiCad Projects/Chergo/Budgy/Libraries/keebio-components/keebio.lib")(options "")(descr ""))
   (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "D:/KiCad Projects/Chergo/Budgy/Libraries/KiCad-RP-Pico-main/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
   (lib (name "kbd")(type "Legacy")(uri "D:/KiCad Projects/Chergo/Budgy/Libraries/kbd/kicad-symbols/kbd.lib")(options "")(descr ""))
+  (lib (name "74AVC1T45DW-7")(type "Legacy")(uri "D:/KiCad Projects/Chergo/Budgy/Libraries/Level Shifter/74AVC1T45DW-7.lib")(options "")(descr ""))
 )

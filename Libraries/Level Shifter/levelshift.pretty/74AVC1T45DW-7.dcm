@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74AVC1T45DW-7
+D DiodesZetex 74AVC1T45DW-7, Transceiver Inverting 3-State, 1.2  3.6 V, 6-Pin SOT-363
+K
+F https://www.diodes.com/assets/Datasheets/74AVC1T45.pdf
+$ENDCMP
+#
+#End Doc Library

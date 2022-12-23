@@ -5,4 +5,5 @@
   (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "D:/KiCad Projects/Chergo/Budgy/Libraries/KiCad-RP-Pico-main/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
   (lib (name "imagefootprints")(type "KiCad")(uri "D:/KiCad Projects/Chergo/Budgy/imagefootprints.pretty")(options "")(descr ""))
   (lib (name "kbd")(type "KiCad")(uri "D:/KiCad Projects/Chergo/Budgy/Libraries/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
+  (lib (name "levelshift")(type "KiCad")(uri "D:/KiCad Projects/Chergo/Budgy/Libraries/Level Shifter/levelshift.pretty")(options "")(descr ""))
 )
